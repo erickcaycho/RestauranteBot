@@ -1,0 +1,4 @@
+functions/node_modules/*
+!functions/index.js
+!functions/package.json
+!functions/package-lock.json
